@@ -104,7 +104,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: '"When everything is online'
+      - title: '"When everything is online, its great to see a STEM education company '
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
