@@ -106,9 +106,9 @@ sections:
     features:
       - title: >-
           "There's no Harvard/Stanford research that we know of that says anything
-          about learning electronics helps the career of your young ones.
+          about electronics helping your young ones have a great career.
           What we know is kids enjoy making, breaking and exploring!"
-        subtitle: 'Mr.Nobody at No Particular University'
+        subtitle: 'Mr.Common Sense at University of Brain'
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
