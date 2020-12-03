@@ -24,8 +24,8 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
+    title: Tinkercaps Kits
+    subtitle: Some fun projects in our kits
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -182,8 +182,8 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
+    title: Testimonials
+    subtitle: Hear from Happy Parents & Kids!
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -227,13 +227,13 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Like what you see so far, Subscribe now!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Let your kids have fun with cool electronic projects!
+      They will receive 2 Tinkercaps kits every month, to keep them engaged
+      And it starts at only INR 999/-
     actions:
-      - label: Learn More
+      - label: Subscribe!
         url: /features
         style: secondary
     actions_position: right

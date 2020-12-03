@@ -1,12 +1,12 @@
 {
-    "description": "A \"do it yourself\" theme for Stackbit",
+    "description": "Offline first Electronics Learning Platform",
     "layout": "full-width",
-    "style": "classic",
+    "style": "bold",
     "palette": "green",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "DIY",
+        "title": "Tinkercaps",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
