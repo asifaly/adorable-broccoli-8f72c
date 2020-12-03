@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Tinkercaps
-    subtitle: Have Fun Tinkering and Lear
+    subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
