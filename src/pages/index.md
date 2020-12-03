@@ -115,8 +115,8 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Tinkerkits Plan
-    subtitle: Our Subscription Plans
+    title: Tinkerkits Programs
+    subtitle: 100+ Projects to take your child from Tinkerer to Master Builder
     grid_items:
       - title: Tiny Tinkerer
         title_align: left
