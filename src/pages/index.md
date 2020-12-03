@@ -53,9 +53,9 @@ sections:
       - title: Offline First
         subtitle: 'Touch, Feel & Tinker'
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Kids are hooked to their devices be it online classes or games.
+          Tinkercaps aims to keep all learning material traditional i.e printed
+          instructions to follow. Yes, being offline is our USP!
         actions:
           - label: Learn More
             url: /style-guide
