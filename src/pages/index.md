@@ -6,8 +6,8 @@ sections:
     subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
       **No coding, No App, No Screen Time**. Kids will use their *hands* working
-      with batteries, motors, lights and sensors!. Will be more fun than having
-      investors at your door.
+      with batteries, motors, lights and sensors!. **God Promise!** more fun
+      than having investors at your door.
     actions:
       - label: Subscribe Now
         url: /pricing
