@@ -85,9 +85,9 @@ sections:
       - title: Practical Projects
         subtitle: Make things you can put to use
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Smart Light, Automatic Sanitiser Dispenser, Fire Alarm, Curtain
+          Closer, Toy Gun etc, these are some projects your kids will make that
+          can actually be used at home!
         actions:
           - label: Learn More
             url: /style-guide
