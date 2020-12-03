@@ -8,7 +8,7 @@ sections:
       From Lighting up an LED to building an Automatic Santizer Dispenser! Kids
       can try all and have fun!
     actions:
-      - label: Subsc
+      - label: Subscribe Now
         url: /pricing
         style: primary
       - label: Learn More
