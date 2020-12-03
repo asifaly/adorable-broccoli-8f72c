@@ -11,6 +11,7 @@ sections:
       - label: Subscribe Now
         url: /pricing
         style: primary
+        has_icon: true
       - label: Learn More
         url: /features
         style: secondary
