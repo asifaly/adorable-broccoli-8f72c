@@ -48,7 +48,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: W
     subtitle: Features Section Example
     features:
       - title: Offline First
