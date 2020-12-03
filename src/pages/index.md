@@ -5,8 +5,9 @@ sections:
     title: Learn Electronics
     subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
-      From Lighting up an LED to building an Automatic Santizer Dispenser! Kids
-      can try all and have fun!
+      We don't promise investors will be at your door with million dollars. But
+      we certainly promise loads of fun workiing with batteries, motors, lights
+      and sensors!
     actions:
       - label: Subscribe Now
         url: /pricing
