@@ -105,10 +105,10 @@ sections:
   - type: features_section
     features:
       - title: >-
-          "When everything is online, its great to see a STEM education company
-          trying to change the status-quo. Tinkercaps projects make learning
-          fun!"
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+          "There's no Harvard/Stanford research that we know of that says anything
+          about learning electronics helps the career of your young ones.
+          What we know is kids enjoy making, breaking and exploring!"
+        subtitle: 'Mr.Nobody at No Particular University'
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
