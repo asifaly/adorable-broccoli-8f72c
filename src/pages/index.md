@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Learn Electronics '
+    title: Learn Electronics
     subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
       From Lighting up an LED to building an Automatic Santizer Dispenser! Kids
