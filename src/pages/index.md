@@ -68,9 +68,9 @@ sections:
         media_width: fifty
       - title: 'Build & Keep '
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          A problem with all the toys / learning kits in the market are you have
+          to build, break and repeat. Tinkercaps kit, let you Build, Keep and
+          Showcase your creation to friends and family!
         actions:
           - label: Learn More
             url: /style-guide
