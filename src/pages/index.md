@@ -5,8 +5,8 @@ sections:
     title: Welcome to Tinkercaps
     subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      From Lighting up an LED to building an Automatic Santizer Dispenser! Kids
+      can try all and have fun!
     actions:
       - label: Try Free
         url: /pricing
