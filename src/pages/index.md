@@ -51,7 +51,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Offline First
-        subtitle: 'Touch, Feel, '
+        subtitle: 'Touch, Feel & Tinker'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
