@@ -50,7 +50,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: 'Offline '
+      - title: 'Offline First, Less Screen Time'
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
