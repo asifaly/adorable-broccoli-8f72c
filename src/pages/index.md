@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Tinkercaps
-    subtitle: 'Build, Break and Learn!'
+    subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
