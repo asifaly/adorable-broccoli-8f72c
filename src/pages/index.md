@@ -5,7 +5,7 @@ sections:
     title: 'Read, Build & Learn'
     subtitle: Tinker with electronics and Learn a bit too!
     content: >-
-      **No coding, No App, No Screen Time**. Kids will use their *hands* working
+      **No coding, No App, No Screen Time**. Kids use their *hands* to work
       with batteries, motors, lights and sensors!. **God Promise!** more fun
       than having investors at your door.
     actions:
