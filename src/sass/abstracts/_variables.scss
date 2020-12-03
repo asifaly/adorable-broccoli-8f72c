@@ -10,7 +10,9 @@ $theme-styles: (
 		colors: (
 			blue:  #7076f0,
 			green: #29cf7f,
-			red:   #f36763
+			red:   #f36763,
+			aqua: #19dfa3
+
 		)
 	),
 	bold: (
@@ -21,7 +23,9 @@ $theme-styles: (
 		colors: (
 			blue:  #2859da,
 			green: #01be54,
-			red:   #ec5033
+			red:   #ec5033,
+			// aqua: #06db9b
+			aqua: #0AC8BC
 		)
 	),
 	minimal: (
@@ -32,7 +36,8 @@ $theme-styles: (
 		colors: (
 			blue:   #0084ff,
 			green:  #00cc88,
-			red:    #ff3366
+			red:    #ff3366,
+			aqua: #32ddaa
 		)
 	)
 );
