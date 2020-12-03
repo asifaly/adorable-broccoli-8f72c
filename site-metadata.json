@@ -1,6 +1,6 @@
 {
     "description": "Offline first Electronics Learning Platform",
-    "layout": "boxed",
+    "layout": "full-width",
     "style": "bold",
     "palette": "green",
     "mode": "light",
