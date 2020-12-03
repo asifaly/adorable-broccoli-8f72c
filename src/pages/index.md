@@ -81,6 +81,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
+        subtitle: 'No Build, Break & Repeat'
       - title: Relatable Projects
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
