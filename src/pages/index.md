@@ -115,15 +115,15 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
+    title: Tinkerkits Plan
+    subtitle: Our Subscription Plans
     grid_items:
-      - title: Section Item 1
+      - title: Tiny Tinkerer
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          We cover the basics of electronics with breadboards, led's and 555 timers.
+          7 projects each spread over a period of 6 months,
+          with a total of 40 projects.
         content_align: left
         actions:
           - label: Learn More
@@ -137,12 +137,12 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Home Automator
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          With solid fundamentals in electronics from the tiny tinkerer program,
+          we move on to building some cool home automation projects
+          30 projects to make you go wow!.
         content_align: left
         actions:
           - label: Learn More
@@ -156,12 +156,12 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
+      - title: Master Builder
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Kids will start using Single Board Computers like Arduino and Rasperry Pi
+          to create autonomous moving cars, wi-fi & bluetooth enabled devices
+          and who knows maybe a tiny robot!.
         content_align: left
         actions:
           - label: Learn More
