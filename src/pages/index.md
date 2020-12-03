@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Subscribe Now
         url: /pricing
-        style: secondary
+        style: primary
       - label: Learn More
         url: /features
         style: secondary
