@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Tinkercaps Kits
+    title: Tinkercaps Projects
     subtitle: Some fun projects in our kits
     align: center
     grid_items:
