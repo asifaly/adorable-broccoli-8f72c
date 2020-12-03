@@ -49,14 +49,13 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: What's Special About Tinkercaps
-    subtitle: Features Section Example
+    subtitle: This is where we convince you to reach for your credit card
     features:
       - title: Offline First
-        subtitle: 'Touch, Feel & Tinker'
+        subtitle: 'No more fights for device time'
         content: >-
-          Kids are hooked to their devices be it online classes or games.
-          Tinkercaps aims to keep all learning material traditional i.e printed
-          instructions to follow. Yes, being offline is our USP!
+          We know its a tall claim (but why not!). Tinkercaps provides instructions via patented "*~~Augmented~~ Real Reality*" i.e **Printed Instructions** to read and follow. Yes, being offline is our USP!.
+          We do have instruction videos though, if that's your thing!
         actions:
           - label: Learn More
             url: /style-guide
@@ -69,9 +68,7 @@ sections:
         media_width: fifty
       - title: 'Build & Keep '
         content: >-
-          A problem with all the toys / learning kits in the market are you have
-          to build, break and repeat. Tinkercaps kit, let you Build, Keep and
-          Showcase your creation to friends and family!
+          Most similar learning kits follow a assemble, disassemble and make a new project model. Tinkercaps lets the kids **build & keep** their projects. So they can continue to play with it as a toy. (*Read as : So you parents can **showcase** to neighbors, relatives how your child is becoming the next Elon Musk.*)
         actions:
           - label: Learn More
             url: /style-guide
@@ -88,7 +85,7 @@ sections:
         content: >-
           Smart Light, Automatic Sanitiser Dispenser, Fire Alarm, Curtain
           Closer, Toy Gun etc, these are some projects your kids will make that
-          can actually be used at home!
+          can actually be used at home! **No jokes here. We are serious!**
         actions:
           - label: Learn More
             url: /style-guide
@@ -182,7 +179,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Testimonials!
     subtitle: Hear from Happy Parents & Kids!
     grid_items:
       - content: >-
