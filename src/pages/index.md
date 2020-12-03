@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to Tinkercaps
+    title: Ele
     subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
       From Lighting up an LED to building an Automatic Santizer Dispenser! Kids
