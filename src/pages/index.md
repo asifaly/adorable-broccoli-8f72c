@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Read, Build & Learn'
-    subtitle: Have Fun Tinkering and Learn a bit too!
+    subtitle: Tinkering and Learn a bit too!
     content: >-
       **No coding, No App, No Screen Time**. Kids will use their *hands* working
       with batteries, motors, lights and sensors!. **God Promise!** more fun
