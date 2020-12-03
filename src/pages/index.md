@@ -5,9 +5,9 @@ sections:
     title: Learn Electronics
     subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
-      We don't promise investors will be at your door with million dollars. But
-      we certainly promise loads of fun workiing with batteries, motors, lights
-      and sensors!
+      **No coding, No App, No Screen Time**. Kids will use their *hands* working
+      with batteries, motors, lights and sensors!. Will be more fun than having
+      investors at your door.
     actions:
       - label: Subscribe Now
         url: /pricing
