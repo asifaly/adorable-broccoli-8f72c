@@ -106,8 +106,7 @@ sections:
     features:
       - title: >-
           "When everything is online, its great to see a STEM education company
-          trying to change the status-quo. Tinkercaps projects make learning
-          fun!"
+          trying to change the status-quo. Tinkercaps
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
