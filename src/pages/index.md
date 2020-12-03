@@ -68,7 +68,7 @@ sections:
         media_width: fifty
       - title: 'Build & Keep '
         content: >-
-          Most similar learning kits follow a assemble, disassemble and make a new project model. Tinkercaps lets the kids **build & keep** their projects. So they can continue to play with it as a toy. (*Read as : So you parents can **showcase** to neighbors, relatives how your child is becoming the next Elon Musk.*)
+          Similar learning kits follow a assemble, disassemble and make a new project routine. Tinkercaps lets the kids **build & keep** their projects. So they can continue to play with it as a toy. (*Read as : So you parents can **showcase** to neighbors, relatives how your child is becoming the next Elon Musk.*)
         actions:
           - label: Learn More
             url: /style-guide
@@ -83,7 +83,7 @@ sections:
       - title: Practical Projects
         subtitle: Make things you can put to use
         content: >-
-          Smart Light, Automatic Sanitiser Dispenser, Fire Alarm, Curtain
+          Smart Lights, Automatic Sanitiser Dispenser, Fire Alarm, Curtain
           Closer, Toy Gun etc, these are some projects your kids will make that
           can actually be used at home! **No jokes here. We are serious!**
         actions:
@@ -179,42 +179,40 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials!
-    subtitle: Hear from Happy Parents & Kids!
+    title: Testimonials
+    subtitle: Our marketing agency forced us to add testimonials!
     grid_items:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          There's no way you can figure out how good the product is by reading
+          the testimonials on their website. You don't know who these people are. I doubt even if the company knows who we are.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **The Naysayer Parent,** *Father of 6yr Old, Never in Any Program*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          What you can do instead is probably look at some google reviews, facebook, instagram reviews maybe?
+          Well now-a-days even that's rigged? Or Maybe it is not.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **The Suspicious Parent,** *Father of 10yr Old, Home Automator Program*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          Tinkercaps offers any-time cancellation of the subscription, so if you don't like what they are sending you are free to cancel at any-time. So that way you are not forced to continue because you have paid for it.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **The Sensible Parent,** *Mother of 7yr old, Tiny Tinkerer Program*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          The entire Tinkercaps program is open, you could see the list of projects, if you are interested can proceed to click to subscribe. Heck, you can even purchase the components yourself and enjoy doing it with your kids.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **The Patient Parent,** *Father of 8yr Old, Master Builder Program*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
