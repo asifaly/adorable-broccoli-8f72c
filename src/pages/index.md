@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Build, '
+    title: 'Build, S'
     subtitle: Have Fun Tinkering and Learn a bit too!
     content: >-
       **No coding, No App, No Screen Time**. Kids will use their *hands* working
