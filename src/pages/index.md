@@ -209,7 +209,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          The entire Tinkercaps program is open, you could see the list of projects, if you are interested can proceed to click to subscribe. Heck, you can even purchase the components yourself and enjoy doing it with your kids.
+          The entire Tinkercaps program is free to download, you could see the list of projects, if you are interested can proceed to click to subscribe. Heck, you can even purchase the components yourself and enjoy doing it with your kids.
 
 
           **The Patient Parent,** *Father of 8yr Old, Master Builder Program*
@@ -290,13 +290,13 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Love the Idea but would like to DIY!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      We provide the entire list of projects (without instructions) with the list of components needed.
+      Go ahead purchase them from your nearest robotics electronics components
+      shop and have fun building with your kids.
     actions:
-      - label: Button
+      - label: Download Now
         url: /pricing
         style: primary
     actions_position: bottom
